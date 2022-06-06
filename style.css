@@ -1,0 +1,26 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: consolas;
+}
+
+h1{
+    color: white;
+    font-size: 200%;
+    padding-top: 20%;
+}
+
+a{
+    display: inline-block;
+    font-size: 1.1em;
+    color: #111;
+    background: #b39cf0;
+    padding: 10px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: 700;
+    align-items: center;
+    justify-content: center;
+}
